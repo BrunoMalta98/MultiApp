@@ -1,0 +1,12 @@
+C:\Users\bruno\source\repos\MultiApps\MultiApps\bin\Debug\MultiApps.exe.config
+C:\Users\bruno\source\repos\MultiApps\MultiApps\bin\Debug\MultiApps.exe
+C:\Users\bruno\source\repos\MultiApps\MultiApps\bin\Debug\MultiApps.pdb
+C:\Users\bruno\source\repos\MultiApps\MultiApps\obj\Debug\MultiApps.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\MultiApps\MultiApps\obj\Debug\MultiApps.Form1.resources
+C:\Users\bruno\source\repos\MultiApps\MultiApps\obj\Debug\MultiApps.Properties.Resources.resources
+C:\Users\bruno\source\repos\MultiApps\MultiApps\obj\Debug\MultiApps.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\MultiApps\MultiApps\obj\Debug\MultiApps.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\MultiApps\MultiApps\obj\Debug\MultiApps.exe
+C:\Users\bruno\source\repos\MultiApps\MultiApps\obj\Debug\MultiApps.pdb
+C:\Users\bruno\source\repos\MultiApps\MultiApps\obj\Debug\MultiApps.CalcRectangulo.resources
+C:\Users\bruno\source\repos\MultiApps\MultiApps\obj\Debug\MultiApps.CalcularImc.resources
